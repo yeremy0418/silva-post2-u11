@@ -100,7 +100,7 @@ public String aprobarCredito(Cliente c, double monto) {
 
 ## Quality Gate
 
-![Quality Gate Passed](img/quality-gate-passed.png)
+![Quality Gate Passed](docs/quality-gate-passed.png)
 
 El Quality Gate de SonarQube muestra estado **Passed**, verificando que la cobertura se mantiene ≥ 80% y no se introdujeron code smells críticos.
 
